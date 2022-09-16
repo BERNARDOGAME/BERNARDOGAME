@@ -1,9 +1,9 @@
-#sobre mim
-- 👋 oi,sou o aluno bernardo
+#sobre mim:brazil:
+- 👋 oi,sou o aluno bernardo:neckbeard:
 - 👀 estou interessado em programação
-- 🌱 I’m currently learning ...
+- 🌱 estou aprendendo programação
 - 💞️ I’m looking to collaborate on ...
-- 📫 hoe to reach me ...
+- 📫 meu insta; @poxa_.bee
 
 <!---
 BERNARDOGAME/BERNARDOGAME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
